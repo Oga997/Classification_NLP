@@ -1,0 +1,15 @@
+The most popular supervised NLP machine learning algorithms for training NLP dataset:
+
+Support Vector Machines
+Bayesian Networks
+Maximum Entropy
+Conditional Random Field
+Neural Networks/Deep Learning
+
+NLTK defines several classifier classes:
+
+ConditionalExponentialClassifier
+DecisionTreeClassifier
+MaxentClassifier
+NaiveBayesClassifier
+WekaClassifier
